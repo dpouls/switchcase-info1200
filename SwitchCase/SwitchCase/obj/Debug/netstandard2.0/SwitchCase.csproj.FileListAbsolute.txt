@@ -1,0 +1,14 @@
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netstandard2.0\SwitchCase.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netstandard2.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netstandard2.0\SwitchCase.AssemblyInfo.cs
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netstandard2.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netstandard2.0\SwitchCase.deps.json
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netstandard2.0\SwitchCase.dll
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netstandard2.0\ref\SwitchCase.dll
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netstandard2.0\SwitchCase.pdb
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netstandard2.0\SwitchCase.dll
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netstandard2.0\ref\SwitchCase.dll
+C:\Users\dalli\source\repos\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netstandard2.0\SwitchCase.pdb
